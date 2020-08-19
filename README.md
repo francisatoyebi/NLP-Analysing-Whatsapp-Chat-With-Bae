@@ -1,5 +1,5 @@
 # NLP - Analysing Whatsapp Chat With Bae
-## AIM
+
 The pandemic got me so bored to this point. I decided to try my hands on text data for the 2nd time and this time I decided to do it with a personal data, my chat with my girlfriend.
 
 Personally, I got a couple of new information based on the exploration of these messages and working in this project was overall fun.
