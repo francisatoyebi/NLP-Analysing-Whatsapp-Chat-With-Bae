@@ -11,6 +11,6 @@ The data used from analysing was gotten by exporting the chat using the export f
 - Data Cleaning and Feature Creation
 - Data Visualization using seaborn, matplotlib and WordCloud
 
-![Word Cloud Image from the Analysis](https://francisatoyebi.github.io/francisatoyebi.github.io/Images/final_image.png)
+![Word Cloud Image from the Analysis](personal_data/picc.jpg)
 
 # Enjoy
